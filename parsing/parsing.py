@@ -168,5 +168,4 @@ if __name__ == '__main__':
         worksheet.cell(row=l + 4, column=22).value = el
 
     wb_new.save(NEW_FILE)
-
-    
+ 
